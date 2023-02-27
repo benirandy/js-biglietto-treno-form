@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    height: 800px;
+    background-image: url(https://www.imf.org/-/media/Images/IMF/FANDD/hero/2022/September/adrian-bullet-train.ashx);
+    padding-top: 20px;
+
+    display: flex;
+}
+
+
+.display-none {
+    display: none;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid black;
+}
